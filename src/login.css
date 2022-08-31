@@ -1,0 +1,99 @@
+body {
+    background-color: #dcc07f;
+  
+    /* box-shadow: 3px 3px  rgb(179, 178, 178); */
+}
+
+.container {
+    margin: 150px;
+    background-color: rgb(247, 247, 247);
+    border-radius: 10px;
+    padding: 90px;
+
+}
+
+span {
+    color:rgb(69,157,164);
+}
+
+.texts input {
+    padding: 8px;
+    border-radius: 7px;
+    margin-left: 10%;
+
+}
+.logo_nav {
+    display: flex;
+}
+
+.logo_nav p {
+    font-size: 18px;
+    color: #81807f;
+}
+
+.logo_nav .signup {
+    padding-left: 450px;
+}
+
+.container h1 {
+    font-size: 40px;
+    color: #81807f;
+}
+
+.texts label input {
+    display: flex;
+    margin: 10px;
+    border: 1px solid rgb(150, 143, 143) ;
+}
+
+.texts label {
+    margin: 10px;
+    font-size: 20px;
+    color: rgb(152, 157, 157);
+}
+
+.texts input {
+    width: 330px;
+    height: 20px;
+}
+
+ button {
+    background-color:rgb(69,157,164);
+    border: none;
+    color: white;
+     padding: 15px 32px,;
+    text-align: center;
+    font-size: 16px;
+    margin: 30px 3px;
+    width: 380px;
+    height: 50px;
+    border-radius: 5px;
+   
+   
+ }
+ .box{
+    color: #81807f;
+ }
+.box .forgetpswd{
+    padding: 140px;
+    
+}
+
+.icons i{
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+    border: 1px solid rgb(159, 154, 154) ;
+
+  
+}
+.icons{
+    margin-left: 160px;
+   
+}
+img{
+    margin-left: 60%;
+    margin-top: -700px;
+    height: 370px;
+    width: 370px;
+}
